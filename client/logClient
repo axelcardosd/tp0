@@ -1,0 +1,52 @@
+[INFO] 23:06:10:259 CLIENTE LOG/(210608:210608): <Cliente> Iniciado.
+[INFO] 23:06:10:259 CLIENTE LOG/(210608:210608): Hola! Soy un log.
+[ERROR] 23:06:10:259 CLIENTE LOG/(210608:210608): Verifique el archivo de configuracion de entrada. (¿Este existe?)
+[INFO] 23:07:16:292 CLIENTE LOG/(210869:210869): <Cliente> Iniciado.
+[INFO] 23:07:16:292 CLIENTE LOG/(210869:210869): Hola! Soy un log.
+[ERROR] 23:07:16:292 CLIENTE LOG/(210869:210869): Error al obtener el VALOR desde el client.config
+[ERROR] 23:07:16:292 CLIENTE LOG/(210869:210869): Debido a errores en las configuraciones, se aborta la ejecución... (REVISE ARCH. CONFIGURACIONES)
+[INFO] 23:10:47:927 CLIENTE LOG/(211250:211250): <Cliente> Iniciado.
+[INFO] 23:10:47:927 CLIENTE LOG/(211250:211250): Hola! Soy un log.
+[DEBUG] 23:10:47:927 CLIENTE LOG/(211250:211250): La IP de SERVIDOR es: 127.0.0.1, su puerto: 4444, el valor: valor
+[INFO] 23:40:08:262 CLIENTE LOG/(212608:212608): <Cliente> Iniciado.
+[INFO] 23:40:08:262 CLIENTE LOG/(212608:212608): Hola! Soy un log.
+[DEBUG] 23:40:08:262 CLIENTE LOG/(212608:212608): La IP de SERVIDOR es: 127.0.0.1, su puerto: 4444, el valor: valor
+[INFO] 23:40:14:121 CLIENTE LOG/(212608:212608): hola
+[INFO] 23:40:19:729 CLIENTE LOG/(212608:212608): prueba
+[INFO] 23:40:20:136 CLIENTE LOG/(212608:212608): Finalizado ingreso de usuario por consola.
+[ERROR] 23:40:20:137 CLIENTE LOG/(212608:212608): Problema al levantar conexión con SERVIDOR en IP:127.0.0.1 PUERTO:4444 (¿SERVIDOR se encuentra levantado?)
+[INFO] 00:39:42:525 CLIENTE LOG/(214438:214438): <Cliente> Iniciado.
+[INFO] 00:39:42:525 CLIENTE LOG/(214438:214438): Hola! Soy un log.
+[DEBUG] 00:39:42:525 CLIENTE LOG/(214438:214438): La IP de SERVIDOR es: 127.0.0.1, su puerto: 4444, el valor: valor
+[INFO] 00:39:51:090 CLIENTE LOG/(214438:214438): hola prueba
+[INFO] 00:39:51:993 CLIENTE LOG/(214438:214438): Finalizado ingreso de usuario por consola.
+[INFO] 00:39:51:994 CLIENTE LOG/(214438:214438): Conexión establecida con SERVIDOR.
+[INFO] 00:39:51:994 CLIENTE LOG/(214438:214438): Finalizado el envio de datos. Cliente Cerrado.
+[INFO] 00:42:46:892 CLIENTE LOG/(214874:214874): <Cliente> Iniciado.
+[INFO] 00:42:46:892 CLIENTE LOG/(214874:214874): Hola! Soy un log.
+[DEBUG] 00:42:46:892 CLIENTE LOG/(214874:214874): La IP de SERVIDOR es: 127.0.0.1, su puerto: 4444, el valor: valor
+[INFO] 00:43:59:754 CLIENTE LOG/(214874:214874): hola
+[INFO] 00:43:59:994 CLIENTE LOG/(214874:214874): Finalizado ingreso de usuario por consola.
+[INFO] 00:43:59:995 CLIENTE LOG/(214874:214874): Conexión establecida con SERVIDOR.
+[INFO] 00:43:59:995 CLIENTE LOG/(214874:214874): Finalizado el envio de datos. Cliente Cerrado.
+[INFO] 00:48:18:083 CLIENTE LOG/(215573:215573): <Cliente> Iniciado.
+[INFO] 00:48:18:083 CLIENTE LOG/(215573:215573): Hola! Soy un log.
+[DEBUG] 00:48:18:083 CLIENTE LOG/(215573:215573): La IP de SERVIDOR es: 127.0.0.1, su puerto: 4444, el valor: valor
+[INFO] 00:48:27:947 CLIENTE LOG/(215573:215573): hola como estas
+[INFO] 00:48:30:228 CLIENTE LOG/(215573:215573): Finalizado ingreso de usuario por consola.
+[INFO] 00:48:30:228 CLIENTE LOG/(215573:215573): Conexión establecida con SERVIDOR.
+[INFO] 00:48:30:229 CLIENTE LOG/(215573:215573): Finalizado el envio de datos. Cliente Cerrado.
+[INFO] 00:50:14:507 CLIENTE LOG/(216000:216000): <Cliente> Iniciado.
+[INFO] 00:50:14:507 CLIENTE LOG/(216000:216000): Hola! Soy un log.
+[DEBUG] 00:50:14:507 CLIENTE LOG/(216000:216000): La IP de SERVIDOR es: 127.0.0.1, su puerto: 4444, el valor: valor
+[INFO] 00:50:17:036 CLIENTE LOG/(216000:216000): 32
+[INFO] 00:50:19:725 CLIENTE LOG/(216000:216000): Finalizado ingreso de usuario por consola.
+[INFO] 00:50:19:726 CLIENTE LOG/(216000:216000): Conexión establecida con SERVIDOR.
+[INFO] 00:50:19:727 CLIENTE LOG/(216000:216000): Finalizado el envio de datos. Cliente Cerrado.
+[INFO] 00:51:29:718 CLIENTE LOG/(216339:216339): <Cliente> Iniciado.
+[INFO] 00:51:29:718 CLIENTE LOG/(216339:216339): Hola! Soy un log.
+[DEBUG] 00:51:29:718 CLIENTE LOG/(216339:216339): La IP de SERVIDOR es: 127.0.0.1, su puerto: 4444, el valor: valor
+[INFO] 00:51:36:789 CLIENTE LOG/(216339:216339): 36
+[INFO] 00:51:38:197 CLIENTE LOG/(216339:216339): Finalizado ingreso de usuario por consola.
+[INFO] 00:51:38:197 CLIENTE LOG/(216339:216339): Conexión establecida con SERVIDOR.
+[INFO] 00:51:38:197 CLIENTE LOG/(216339:216339): Finalizado el envio de datos. Cliente Cerrado.
